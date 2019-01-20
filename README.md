@@ -23,3 +23,4 @@ to see the page then.
 Or just load the application in Visual Studio and press the Play Button.
 
 Have fun :)
+"# AspNetCoreAngularSignalR" 
